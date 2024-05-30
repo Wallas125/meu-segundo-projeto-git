@@ -24,3 +24,5 @@ Atração de Clientes: Com um design atrativo e funcional, a página ajuda a con
 Facilidade de Uso: A simplicidade do catálogo permite que os usuários encontrem rapidamente o que procuram, melhorando a experiência do cliente.
 Profissionalismo: Uma presença online profissional ajuda a construir a reputação do comerciante, transmitindo confiança aos clientes potenciais.
 Design Sofisticado: A interface do usuário é elegante e moderna, projetada para causar uma excelente primeira impressão e aumentar a credibilidade do comerciante.</p>
+
+<img src="https://github.com/Wallas125/starbucks/blob/master/img/desktop.logo.jpg?raw=true"/>
